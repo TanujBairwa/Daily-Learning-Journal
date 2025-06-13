@@ -34,9 +34,24 @@ This includes daily summaries of what I learn — covering **Development**, **DS
 ### 📅 **Day 3 – June 12, 2025 – Revision
 ---
 
-### 📅 **Day 4 – June 13, 2025 – Web Development Progress
+# 📅 Day 4 – June 13, 2025
 
-✅ Learned HTML fundamentals: elements, tags, headings, paragraphs  
-✅ Wrote and ran basic HTML files  
-✅ Solved practice questions  
-✅ Started tracking my journey publicly 
+## ✅ Topics Covered:
+- HTML Elements & Tags
+- Hello World in HTML
+- Paragraph & Heading Elements
+- Lists (Ordered & Unordered)
+- Boilerplate Code
+- Attributes, Anchor & Image Elements
+- HTML Comments
+- Case Sensitivity in HTML
+- Practice Questions
+
+## 🧠 Quiz Performance:
+- Score: 9/10  
+- Type: HTML Fundamentals  
+- Platform: Apna College Sigma 8.0
+
+## 💡 Notes:
+- HTML is not case-sensitive
+- Practice makes understanding structure easier
