@@ -28,5 +28,15 @@ This includes daily summaries of what I learn — covering **Development**, **DS
   - 🎨 **UI/UX Designer**
   - ☁️ **DevOps Engineer**
 - 🤝 Understood how all roles work together to build a complete website
-
+  
 ---
+
+### 📅 **Day 3 – June 12, 2025 – Revision
+---
+
+### 📅 **Day 4 – June 13, 2025 – Web Development Progress
+
+✅ Learned HTML fundamentals: elements, tags, headings, paragraphs  
+✅ Wrote and ran basic HTML files  
+✅ Solved practice questions  
+✅ Started tracking my journey publicly 
