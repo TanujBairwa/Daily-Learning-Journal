@@ -34,7 +34,7 @@ This includes daily summaries of what I learn — covering **Development**, **DS
 ### 📅 **Day 3 – June 12, 2025 – Revision
 ---
 
-# 📅 Day 4 – June 13, 2025
+### 📅 Day 4 – June 13, 2025
 
 ## ✅ Topics Covered:
 - HTML Elements & Tags
@@ -55,3 +55,31 @@ This includes daily summaries of what I learn — covering **Development**, **DS
 ## 💡 Notes:
 - HTML is not case-sensitive
 - Practice makes understanding structure easier
+  
+---
+
+# 📚 Day 5 – Revision Day
+
+---
+
+# 🚀 Day 6 – Exploring AI Tools & Firebase Studio
+
+## 🔍 What I Explored:
+1. **Firebase Studio by Google**  
+   - Drag-and-drop app builder  
+   - Realtime preview and integration with Firebase services  
+   - Fast prototyping for developers and designers  
+
+2. **AI-based No-Code App Builders**  
+   - Describe app idea, get UI + backend ready  
+   - 100% no-code, useful for MVPs  
+   - Speeds up development lifecycle
+
+## 🔑 Key Learnings:
+- AI tools are empowering both beginners and pros  
+- Firebase Studio simplifies UI + backend workflow  
+- No-code tools = faster market validation for ideas
+
+
+## 💡 Thought:
+The combination of AI and no-code is shaping the future of app development. It’s the right time to explore and build something!
